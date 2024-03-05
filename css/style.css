@@ -1,0 +1,18 @@
+h1{
+    background-color: aquamarine;
+}
+body{
+    background-color:ghostwhite;
+    font-size: 20px;
+    font-style:oblique;
+    text-align: center;
+    font-weight:bold;
+    text-decoration:underline;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow';
+    width: 600px;
+    margin-top: 20px;
+    border: width 2px;
+    
+    margin-left: 550px;
+}
+
