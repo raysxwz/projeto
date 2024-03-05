@@ -1,6 +1,9 @@
 h1{
     background-color: aquamarine;
 }
+*{
+    background-color: gainsboro;
+}
 body{
     background-color:ghostwhite;
     font-size: 20px;
@@ -15,4 +18,3 @@ body{
     
     margin-left: 550px;
 }
-
