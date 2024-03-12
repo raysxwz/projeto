@@ -1,8 +1,8 @@
 h1{
-    background-color: aquamarine;
+    background-color:linen;
 }
 *{
-    background-color: gainsboro;
+    background-color:snow;
 }
 body{
     background-color:ghostwhite;
@@ -12,7 +12,7 @@ body{
     font-weight:bold;
     text-decoration:underline;
     font-family:'Franklin Gothic Medium', 'Arial Narrow';
-    width: 600px;
+    width: 700px;
     margin-top: 20px;
     border: width 2px;
     
