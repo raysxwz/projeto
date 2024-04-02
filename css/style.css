@@ -1,15 +1,54 @@
-h1{
-margin:0;
-font-family: var(--bs-body-font-family);
-font-size: var(--bs-body-font-size);
-font-weight: var(--bs-body-font-weight);
-line-height: var(--bs-body-line-height);
-color: var(--bs-body-color);
-text-align:var(--bs-body-color);
-background-color:rgb(100, 194, 237);
--webkit-text-size-adjust: 100%;
--webkit-tap-highlight-color:cadetblue;
-width: 600px;
-
+html {
+    font-size: 80px;
+    font-family: "Open Sans", sans-serif;
 }
 
+
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+p,
+li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+html {
+    background-color: aliceblue;
+}
+
+body {
+    width: 1008px;
+    margin: 10 auto;
+    background-color: aliceblue;
+    padding: 0 20px 20px 20px;
+    border: 4px solid black;
+}
+
+img {
+    display: var(20px);
+    margin: 20 auto;
+    width: 26%;
+
+}
+*{margin: 0; padding: 0;}
+
+body{
+font-family: arial, helvetica, sans-serif;
+font-size: 12px;
+}
+
+.menu{
+list-style:square;
+border:1px solid #c0c0c0;
+float:none;
+}
+.menu li{
+    position:relative;
+    float:none;
+    border-right:1px solid #c0c0c0;
+    }
